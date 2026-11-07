@@ -1,0 +1,128 @@
+name,domain,category,hq_city
+Tata Consultancy Services,tcs.com,it_services,Mumbai
+Infosys,infosys.com,it_services,Bengaluru
+Wipro,wipro.com,it_services,Bengaluru
+HCLTech,hcltech.com,it_services,Noida
+Tech Mahindra,techmahindra.com,it_services,Pune
+LTIMindtree,ltimindtree.com,it_services,Mumbai
+Persistent Systems,persistent.com,it_services,Pune
+Coforge,coforge.com,it_services,Noida
+Mphasis,mphasis.com,it_services,Bengaluru
+Hexaware,hexaware.com,it_services,Mumbai
+Zensar Technologies,zensar.com,it_services,Pune
+Cyient,cyient.com,it_services,Hyderabad
+KPIT Technologies,kpit.com,it_services,Pune
+Tata Elxsi,tataelxsi.com,it_services,Bengaluru
+L&T Technology Services,ltts.com,it_services,Vadodara
+Birlasoft,birlasoft.com,it_services,Pune
+Sonata Software,sonata-software.com,it_services,Bengaluru
+Mastek,mastek.com,it_services,Mumbai
+Happiest Minds,happiestminds.com,it_services,Bengaluru
+Sasken Technologies,sasken.com,it_services,Bengaluru
+Quest Global,quest-global.com,it_services,Bengaluru
+Newgen Software,newgensoft.com,product,Noida
+Intellect Design Arena,intellectdesign.com,product,Chennai
+Nucleus Software,nucleussoftware.com,product,Noida
+Tanla Platforms,tanla.com,product,Hyderabad
+Route Mobile,routemobile.com,product,Mumbai
+Zoho,zoho.com,product,Chennai
+Freshworks,freshworks.com,product,Chennai
+Chargebee,chargebee.com,product,Chennai
+Postman,postman.com,product,Bengaluru
+BrowserStack,browserstack.com,product,Mumbai
+Druva,druva.com,product,Pune
+Icertis,icertis.com,product,Pune
+MindTickle,mindtickle.com,product,Pune
+LeadSquared,leadsquared.com,product,Bengaluru
+Darwinbox,darwinbox.com,product,Hyderabad
+Keka,keka.com,product,Hyderabad
+Zeta,zeta.tech,product,Bengaluru
+Hasura,hasura.io,product,Bengaluru
+Innovaccer,innovaccer.com,product,Noida
+Whatfix,whatfix.com,product,Bengaluru
+Sprinklr,sprinklr.com,product,Gurugram
+HighRadius,highradius.com,product,Hyderabad
+Capillary Technologies,capillarytech.com,product,Bengaluru
+CleverTap,clevertap.com,product,Mumbai
+MoEngage,moengage.com,product,Bengaluru
+WebEngage,webengage.com,product,Mumbai
+Exotel,exotel.com,product,Bengaluru
+Yellow.ai,yellow.ai,product,Bengaluru
+Haptik,haptik.ai,product,Mumbai
+Gupshup,gupshup.io,product,Mumbai
+Uniphore,uniphore.com,product,Chennai
+Fractal Analytics,fractal.ai,analytics,Mumbai
+Tiger Analytics,tigeranalytics.com,analytics,Chennai
+Mu Sigma,mu-sigma.com,analytics,Bengaluru
+LatentView Analytics,latentview.com,analytics,Chennai
+Sarvam AI,sarvam.ai,product,Bengaluru
+Krutrim,olakrutrim.com,product,Bengaluru
+InMobi,inmobi.com,product,Bengaluru
+Kissflow,kissflow.com,product,Chennai
+Zluri,zluri.com,product,Bengaluru
+Atlan,atlan.com,product,Bengaluru
+Rocketlane,rocketlane.com,product,Chennai
+Signzy,signzy.com,product,Bengaluru
+Setu,setu.co,fintech,Bengaluru
+Juspay,juspay.in,fintech,Bengaluru
+Perfios,perfios.com,fintech,Bengaluru
+Hevo Data,hevodata.com,product,Bengaluru
+Flipkart,flipkart.com,consumer,Bengaluru
+Myntra,myntra.com,consumer,Bengaluru
+Swiggy,swiggy.com,consumer,Bengaluru
+Zomato,zomato.com,consumer,Gurugram
+Blinkit,blinkit.com,consumer,Gurugram
+Zepto,zeptonow.com,consumer,Mumbai
+Meesho,meesho.com,consumer,Bengaluru
+Nykaa,nykaa.com,consumer,Mumbai
+Lenskart,lenskart.com,consumer,Gurugram
+BigBasket,bigbasket.com,consumer,Bengaluru
+Udaan,udaan.com,consumer,Bengaluru
+Paytm,paytm.com,fintech,Noida
+PhonePe,phonepe.com,fintech,Bengaluru
+Razorpay,razorpay.com,fintech,Bengaluru
+CRED,cred.club,fintech,Bengaluru
+Groww,groww.in,fintech,Bengaluru
+Zerodha,zerodha.com,fintech,Bengaluru
+Upstox,upstox.com,fintech,Mumbai
+Pine Labs,pinelabs.com,fintech,Noida
+BharatPe,bharatpe.com,fintech,New Delhi
+Slice,sliceit.com,fintech,Bengaluru
+Jupiter,jupiter.money,fintech,Bengaluru
+Navi,navi.com,fintech,Bengaluru
+PolicyBazaar,policybazaar.com,fintech,Gurugram
+Acko,acko.com,fintech,Bengaluru
+Go Digit,godigit.com,fintech,Bengaluru
+Ola,olacabs.com,mobility,Bengaluru
+Ola Electric,olaelectric.com,mobility,Bengaluru
+Ather Energy,atherenergy.com,mobility,Bengaluru
+Rapido,rapido.bike,mobility,Bengaluru
+Cars24,cars24.com,mobility,Gurugram
+Spinny,spinny.com,mobility,Gurugram
+Porter,porter.in,logistics,Bengaluru
+Delhivery,delhivery.com,logistics,Gurugram
+Shiprocket,shiprocket.in,logistics,New Delhi
+MakeMyTrip,makemytrip.com,travel,Gurugram
+ixigo,ixigo.com,travel,Gurugram
+OYO,oyorooms.com,travel,Gurugram
+Dream11,dream11.com,gaming,Mumbai
+Games24x7,games24x7.com,gaming,Mumbai
+MPL,mpl.live,gaming,Bengaluru
+ShareChat,sharechat.com,consumer,Bengaluru
+Dailyhunt,dailyhunt.in,consumer,Bengaluru
+Urban Company,urbancompany.com,consumer,Gurugram
+NoBroker,nobroker.in,consumer,Bengaluru
+cult.fit,cult.fit,consumer,Bengaluru
+Licious,licious.in,consumer,Bengaluru
+boAt,boat-lifestyle.com,consumer,New Delhi
+Practo,practo.com,healthtech,Bengaluru
+PharmEasy,pharmeasy.in,healthtech,Mumbai
+Tata 1mg,1mg.com,healthtech,Gurugram
+Physics Wallah,pw.live,edtech,Noida
+upGrad,upgrad.com,edtech,Mumbai
+Unacademy,unacademy.com,edtech,Bengaluru
+BYJU'S,byjus.com,edtech,Bengaluru
+Info Edge,infoedge.in,consumer,Noida
+IndiaMART,indiamart.com,consumer,Noida
+Jio Platforms,jio.com,telecom,Mumbai
+Bharti Airtel,airtel.in,telecom,New Delhi
