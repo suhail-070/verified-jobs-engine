@@ -296,6 +296,14 @@ def write_outputs(results: list[Result], outdir: Path) -> None:
     if net_errors:
         lines.append(f"⚠️ {len(net_errors)} 'unreachable' companies had network errors; "
                      "results are not trustworthy until those are re-run.")
+    cats: dict[str, list[Result]] = {}
+    for r in results:
+        cats.setdefault(r.category, []).append(r)
+    lines += ["", "## Reachability by category", "",
+              "| Category | Companies | Reachable (T1–T3) | % |", "|---|---|---|---|"]
+    for cat, rs in sorted(cats.items(), key=lambda x: -len(x[1])):
+        ok = sum(1 for r in rs if r.tier in ("1", "2", "3"))
+        lines.append(f"| {cat} | {len(rs)} | {ok} | {100*ok/len(rs):.0f}% |")
     t1 = sorted(by("1"), key=lambda r: -(r.jobs_india or 0))
     if t1:
         lines += ["", "## Tier 1 boards", "", "| Company | ATS | Jobs | India jobs |", "|---|---|---|---|"]
